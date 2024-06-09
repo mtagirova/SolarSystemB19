@@ -1,8 +1,5 @@
 package SolarSystem;
 
-
-public class solarSystem {
-
     public class solarSystem {
         public static void main(String[] args) {
             solarSystemBase solar = new solarSystemBase();
@@ -23,4 +20,3 @@ public class solarSystem {
             renox.radius="5m";
         }
     }
-}
