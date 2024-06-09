@@ -11,7 +11,8 @@ public class solarSystem {
 
         featureSun xros=new featureSun();
         xros.color="pink";
-        xros.temp="2434kv";
-        xros.size="Bkm";
+        xros.temp="2434kv23";
+        xros.size="Bkmw";
+        System.out.println("the planet 2 is ready");
     }
 }
