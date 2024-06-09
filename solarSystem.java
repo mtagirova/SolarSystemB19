@@ -13,5 +13,10 @@ public class solarSystem {
         xros.color="pink";
         xros.temp="2434kv";
         xros.size="Bkm";
+
+        planet1 renox=new planet1();
+        renox.color="grey";
+        renox.size="18km";
+        renox.radius="5m";
     }
 }
